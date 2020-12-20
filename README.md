@@ -36,4 +36,34 @@ Speaking of training that leads us to part 4 where we'll train this brain that w
 5. **Testing the Seq2Seq model**
 And finally part for the last part of this implementation we will test our Chatbot which is we will test the Seq2Seq model. Once we execute we will have an interface where we can ask some questions and then the chatbot will answer and we will just test the chatbot by observing its answers and see how it's capable of conversing with us.
 
+To make life easier for beginners looking to experiment with seq2seq model. Read the article on seq2seq - [**Practical seq2seq**](http://suriyadeepan.github.io/2016-12-31-practical-seq2seq/),
+
+- [x] [Cornell Movie Dialog Corpus](https://github.com/suriyadeepan/datasets/tree/master/seq2seq/cornell_movie_corpus)
+
+\~4% unknown tokens in dataset; vocabulary of 8000.
+
+| Query					| Reply					|
+| ------------- | ------------- |
+| when are you going to let the police know | you dont know what youre talking about |
+| you can do it | yeah i think so |
+| wait are you saying that i dont appreciate | i know you know what i mean |
+| youre terrible | yeah but im not |
+| nah i dont think so | why not |
+| hes pissing in our faces again and were just taking it | i cant |
+| im sorry i dont know what else to say except im sorry | why would you like to be |
+| nobodys gonna get you now get inside | i cant go back |
+| shall i leave | of course |
+| well i really think hes got a chance | i know |
+| youd better be quiet sandy | shut up |
+| jesus christ you scared the shit out of me | whats going on |
+| well im sorry im really sorry ellie | its okay |
+| my lady this play will end badly i will tell | lets get out of here |
+| im going to miss you | no youre not |
+| what do you mean | i dont know i dont know what i mean |
+| my god these people are insane | we dont know what they are |
+| this isnt a date | no what is it |
+| you ought to go home and take care of that | i cant do that |
+| is something wrong | no no no |
+
+
 
